@@ -1,0 +1,39 @@
+/* Chad Verbus */
+/* GPE104 */
+/* 10/18/2026 */
+/* Body */
+body {
+    background: black;
+    color: aqua;
+    font-size: 20px;
+}
+
+/* center header so nav links and buttons are centered */
+header{
+    text-align: center;
+}
+
+h1, h2{
+    text-align: center;
+}
+
+.someList{
+    text-align: center;
+}
+
+.someLink{
+    display: block;
+    width: fit-content; /* Shrinks the block to fit just the link text */
+    margin: 0 auto;     /* Centers the block horizontally */
+    text-align: center; /* center */
+    
+}
+
+/* nav list links */
+li {
+    justify-content:center; 
+    align-items: center;
+    background-color: black;
+    color: aqua;
+    font-size: 20px;
+}
