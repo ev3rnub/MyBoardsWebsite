@@ -1,0 +1,6 @@
+Library/
+Temp/
+Logs/
+*/[Oo]bj/
+*/[Bb]uild/
+.DS_STORE
